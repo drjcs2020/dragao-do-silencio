@@ -1,0 +1,14 @@
+CLASSMANA — DRAGÃO DO SILÊNCIO — VERSÃO FINAL PARA TESTE
+Base: versão EXPLOSAO_AUDIO_RESTAURADOS_TESTE aprovada como a mais estável.
+
+- Recompensas, penalidades e quantidade de ataques completos sugeridos conforme a duração.
+- Base automática: 10 minutos = 150 XP, 5 HP, 5 mana, 120 moedas, 2 ataques completos.
+- Valores editáveis na configuração geral, inclusive decimais.
+- Ao mudar a duração no painel, novas sugestões são preenchidas; podem ser editadas antes de salvar.
+- Dano máximo de cada ataque completo = 100% / número de ataques configurados.
+- Descontos progressivos pelo pico atingido em cada alerta; Falso Alerta preservado.
+- Pausar mantém a conexão com o microfone para continuar sem nova solicitação de permissão.
+- Som breve de vitória e sino de derrota; volume do rugido grave aumentado.
+- Sequência de imagens, transições, explosão e calibração mantidas como na base.
+
+NOTA: reprodução de som e permissões do microfone devem ser testadas em navegador com HTTPS ou localhost.

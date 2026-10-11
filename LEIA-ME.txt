@@ -1,0 +1,6 @@
+CLASSMANA — DRAGÃO DO SILÊNCIO
+Abra index.html por HTTPS ou localhost para permitir microfone.
+Ajuste tempo, tolerância e recompensas em CONFIGURAR.
+INICIAR libera microfone e sons; PAUSAR encerra a captura; PARAR finaliza.
+As 16 imagens fornecidas estão em assets/frame_01.png até frame_16.png.
+O navegador exige autorização explícita para acessar o microfone.
